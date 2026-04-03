@@ -1,45 +1,24 @@
 # 🏅 Olympic Games Data Analytics Dashboard
-
-A data analytics project analyzing Olympic Games data using Microsoft Power BI to uncover insights on medal distribution, country performance, sports trends, and geographic patterns.
-
----
-
 ## 📑 Table of Contents
-- Project Overview
-- Objectives
-- Tools Used
-- Project Structure
-- Dashboard Pages
-- Key Insights
-- Recommendations
-- Conclusion
 
----
+- [Overview](#-project-overview)
+- [Objectives](#-objectives)
+- [Dataset](#-dataset)
+- [Tools Used](#-tools-used)
+- [Project Structure](#-project-structure)
 
-## 📊 Project Overview
-This project focuses on analyzing Olympic Games data and presenting insights through interactive dashboards.
+### 📂 Project Components
+- [Data](#-project-structure)
+- [Dashboards](#-project-structure)
+- [Presentation](#-project-structure)
+- [Images](#-project-structure)
 
-It covers:
-- Medal distribution across countries  
-- Sports performance analysis  
-- Geographic trends of Olympic Games  
-- Historical performance patterns  
+### 📄 Documentation
+- [README](#-olympic-games-data-analytics-dashboard)
+- [License](#-license)
 
----
+- [Dashboard Pages](#-dashboard-pages)
+- [Key Insights](#-key-insights)
+- [Recommendations](#-recommendations)
+- [Conclusion](#-conclusion)
 
-## 🎯 Objectives
-- Identify top-performing countries  
-- Analyze high-medal sports  
-- Study Olympic hosting patterns  
-- Understand trends over time  
-
----
-
-## 🛠 Tools Used
-- Microsoft Power BI  
-- Data Visualization  
-- DAX  
-
----
-
-## 📁 Project Structure
